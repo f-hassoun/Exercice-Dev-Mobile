@@ -1,7 +1,33 @@
 <resources>
     <string name="app_name">excercice-dev-movile</string>
     <string name="campus_title">Campus</string>
+    <string name="switch_to_light_theme">Mode clair</string>
+    <string name="switch_to_dark_theme">Mode sombre</string>
+    <string name="all_categories">Toutes</string>
     <string name="location_pending">Lieu à confirmer</string>
     <string name="event_sold_out">Complet</string>
     <string name="book_event">Réserver</string>
+    <string name="event_image_placeholder">Aucune image disponible</string>
+    <string name="category_development">Développement</string>
+    <string name="category_student_life">Vie étudiante</string>
+    <string name="category_sport">Sport</string>
+    <string name="category_culture">Culture</string>
+    <string name="location_amphi_a">Amphi A</string>
+    <string name="location_salle_b12">Salle B12</string>
+    <string name="location_gymnase">Gymnase</string>
+    <string name="location_amphi_c">Amphi C</string>
+    <string name="kotlin_talk_title">Conférence Kotlin</string>
+    <string name="kotlin_talk_description">Découvrez comment Kotlin simplifie le développement d’applications Android. La conférence présente les types nullables, les classes de données et les coroutines à partir d’exemples concrets.\n\nUne séance de questions et réponses clôturera la présentation. La conférence est ouverte aux personnes qui découvrent Kotlin comme à celles qui souhaitent consolider leurs bases.</string>
+    <string name="compose_workshop_title">Atelier Jetpack Compose</string>
+    <string name="compose_workshop_description">Créez un premier écran Android avec Jetpack Compose. Prévoyez un ordinateur équipé d’Android Studio pour suivre les exercices.</string>
+    <string name="student_clubs_title">Rencontre des associations</string>
+    <string name="student_clubs_description">Rencontrez les associations du campus, découvrez leurs activités et échangez avec les équipes sur les modalités d’inscription.</string>
+    <string name="badminton_title">Tournoi de badminton</string>
+    <string name="badminton_description">Participez à un tournoi de badminton en double. Tous les niveaux sont les bienvenus. Pensez à apporter des chaussures de sport propres.</string>
+    <string name="film_screening_title">Projection cinéma</string>
+    <string name="film_screening_description">Retrouvez le ciné-club pour une projection suivie d’une discussion autour du film.</string>
+    <plurals name="event_places">
+        <item quantity="one">%d place disponible</item>
+        <item quantity="other">%d places disponibles</item>
+    </plurals>
 </resources>
